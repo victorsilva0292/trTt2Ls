@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/aRsdC3xpNBFxWel7JU/giphy.gif">
+  <img src="https://media.giphy.com/media">
 </p>
 
 Reach me on Telegram [la](youtube.com)
