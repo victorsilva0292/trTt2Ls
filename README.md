@@ -1,10 +1,8 @@
-# Alexa Song Bot
-## Fastest Mp3 downloader
 <p align="center">
   <img src="https://media.giphy.com/media/aRsdC3xpNBFxWel7JU/giphy.gif">
 </p>
 
-Reach me on Telegram [ALEXA 📻](https://t.me/alexasongbot)
+Reach me on Telegram [la](youtube.com)
 
 ## How To Host
 The easiest way to deploy this Song Bot
